@@ -59,11 +59,9 @@
 	<a href="https://www.facebook.com/profile.php?id=100017387234239" rel="nofollow">
 	 	<img alt="tuan nguyen facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="max-width: 100%;">
 	</a>
-	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
-  		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
-	</a>
+	
 	<a href="https://www.linkedin.com/in/torrin-leonard-8343a1154/" rel="nofollow">
-  		<img alt="Torrin Leonard's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
+  		<img alt="Torrin Leonard's LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
 	</a>
 </div>
 </p>
