@@ -57,7 +57,7 @@
 <p>
 <div align="center">
 	<a href="https://www.facebook.com/profile.php?id=100017387234239" rel="nofollow">
-	 	<img alt="tuan nguyen facebook" width="22px" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="max-width: 100%;">
+	 	<img alt="tuan nguyen facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="max-width: 100%;">
 	</a>
 	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
   		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
