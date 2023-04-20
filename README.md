@@ -50,15 +50,14 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black">
 </div>
 </p>
 
 <p align="center">Contact me:</p>
 <p>
 <div align="center">
-	<a href="https://discord.com/users/605010128521003008" rel="nofollow">
-	 	<img alt="Torrin Leonard's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" style="max-width: 100%;">
+	<a href="https://www.facebook.com/profile.php?id=100017387234239" rel="nofollow">
+	 	<img alt="tuan nguyen facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" style="max-width: 100%;">
 	</a>
 	<a href="https://twitter.com/LeonardTorrin" rel="nofollow">
   		<img alt="Torrin Leonard's Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" style="max-width: 100%;">
