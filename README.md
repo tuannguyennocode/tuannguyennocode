@@ -53,5 +53,4 @@
 </div>
 </p>
 
-<p align="center">Contact me:</p>
 
