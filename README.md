@@ -54,10 +54,4 @@
 </p>
 
 <p align="center">Contact me:</p>
-<p>
-<div align="center">
-	<a href="https://www.facebook.com/profile.php?id=100017387234239" rel="nofollow">
-	 	<img alt="tuan nguyen facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="max-width: 100%;">
-	</a>
-</div>
-</p>
+
